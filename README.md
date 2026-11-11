@@ -1,7 +1,7 @@
 <!-- 3D ULTRA-GLOW HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f2fe,100:7000ff&height=160&section=header&text=Abdulbosit%20Ismatov&fontSize=42&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f2fe,100:7000ff&height=160&section=header&text=Ne'matulloh%20Mansurov&fontSize=42&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
 
 <br/>
 
